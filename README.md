@@ -4,6 +4,6 @@ coverY: 0
 
 # Welcome!
 
-## Welcome aboard!
+## My private wiki
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+Mostly SWE and InfoSec notes
