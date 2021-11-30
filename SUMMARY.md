@@ -9,4 +9,5 @@
 * [Web App Pentest](web-app-pentest/README.md)
   * [Tools Overview](web-app-pentest/tools-overview.md)
   * [Web Discovery](web-app-pentest/web-discovery.md)
-  * [nmap cheatsheet](web-app-pentest/nmap.md)
+  * [nmap cheatsheet](web-app-pentest/nmap/README.md)
+    * [scan techniques](web-app-pentest/nmap/scan-techniques.md)
