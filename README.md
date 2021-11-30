@@ -3,8 +3,6 @@ coverY: 0
 cover: .gitbook/assets/header.jpg
 ---
 
-# Welcome!
-
-## My private wiki
+# Ласкаво просимо!
 
 Mostly SWE and InfoSec notes
